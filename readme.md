@@ -4,3 +4,8 @@ dir - flask_app
             -app.py
             -templates
                 -home.html
+For Heroku-
+app.py
+templates
+Procfile
+requirement.txt
